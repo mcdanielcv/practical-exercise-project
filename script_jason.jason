@@ -1,0 +1,106 @@
+--1--
+{
+     "cardId": "1721521613",
+     "name": "Jose Lema ",
+     "address": "Otavalo sn y principal",
+     "phone": "098254785",
+     "password":"12345",
+     "email": "mario@gmail.com",
+     "age":15,
+     "state":true
+}
+
+--2--
+{
+     "cardId": "1715817084",
+     "name": "Marianela Montalvo",
+     "address": "Amazonas y NNUU",
+     "phone": "097548965",
+     "password":"5678",
+     "email": "mariela@gmail.com",
+     "age":21,
+     "state":true
+}
+
+--3--
+{
+     "cardId": "1705184719",
+     "name": "Juan Osorio",
+     "address": "13 junio y Equinoccial",
+     "phone": "098874587",
+     "password":"1245",
+     "email": "Juan@gmail.com",
+     "age":21,
+     "state":true
+}
+
+-----
+{
+    "accountNumber": 478758   ,
+    "accountType": "Ahorro",
+    "initialBalance": 2000,
+    "clientId": 1,
+    "state": true
+}
+
+
+{
+    "accountNumber": 225487   ,
+    "accountType": "Corriente",
+    "initialBalance": 100,
+    "clientId": 2,
+    "state": true
+}
+
+{
+    "accountNumber": 495878   ,
+    "accountType": "Ahorro",
+    "initialBalance": 0,
+    "clientId": 3,
+    "state": true
+}
+
+{
+    "accountNumber": 496825   ,
+    "accountType": "Ahorro",
+    "initialBalance": 540,
+    "clientId": 2,
+    "state": true
+}
+
+{
+    "accountNumber": 585545   ,
+    "accountType": "Corriente",
+    "initialBalance": 100,
+    "clientId": 1,
+    "state": true
+}
+
+---
+{
+	"accountNumber":478758,
+	"transactionDate":"2022-02-08",
+	"typeMovement": "Retiro",
+	"value":-575
+}
+
+{
+	"accountNumber":225487,
+	"transactionDate":"2022-02-10",
+	"typeMovement": "Deposito",
+	"value": 600
+}
+
+{
+	"accountNumber":495878,
+	"transactionDate":"2022-02-08",
+	"typeMovement": "Deposito",
+	"value": 150
+}
+
+{
+	"accountNumber":496825,
+	"transactionDate":"2022-02-08",
+	"typeMovement": "Retiro",
+	"value": -540
+}
